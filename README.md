@@ -1,5 +1,5 @@
 # Movie Ticket Booking Challenge 
-##Walmart
+## Walmart
 
 # Walmart Ticket Booking
 
